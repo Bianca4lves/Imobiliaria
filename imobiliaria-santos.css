@@ -1,0 +1,143 @@
+body {
+    font-family: Tahoma;
+    margin: 0;
+}
+div {
+    text-align: center;
+    width: 950px;
+    margin: 10px auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+p {
+    font-size: 18px;
+    line-height: 28px;
+    width: 950;
+    text-align: justify;
+    margin: 0 auto;
+}
+/*--1° seção--*/
+.primeira-secao {
+    background-color: #afddfb;
+    width: 1500px;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.primeira-secao img {
+    width: 150px;
+    margin: 10px auto;
+}
+.primeiro-paragrafo {
+    text-align: center;
+}
+.primeira-secao a {
+    color: #1d1d1d;
+    margin: 0 10px;
+    text-decoration: none;
+    border-bottom: 2px solid #1d1d1d;
+}
+/*--2° seção--*/
+.segunda-secao img{
+    padding-top: 0;
+    margin-top: 50px;
+}
+.segunda-secao p {
+    text-align: justify;
+}
+/*--3° seção--*/
+.terceira-secao img{
+    width: 450px;
+    padding: 0 auto;
+    margin: 10px;
+}
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+h2 {
+    margin-top: 0;
+    font-weight: normal;
+    color: #1c81c0;
+}
+.terceira-secao span {
+    font-weight: bold;
+    color: #1d80c1;
+}
+/*--4° secao--*/
+.quarta-secao {
+    background-color: #1d80c1;
+    color: white;
+    width: 1500px;
+}
+h3 {
+    line-height: 42px;
+    font-size: 28px;
+}
+.quarto-paragrafo {
+    line-height: 42px;
+    width: 700px;
+    text-align: center;
+    font-size: 22px;
+}
+.quarto-lista {
+    text-align: justify;
+    font-size: 22px;
+    margin: 40px auto 40px;
+    width: 135px;
+    margin: 10px auto;
+    line-height: 42px;
+}
+.quarta-secao span {
+    font-weight: bold;
+    color: yellow
+}
+/*--5° seção--*/
+.quinta-secao h3 {
+    color: #1c81c0
+}
+.quinta-secao img {
+    width: 450px;
+    padding: 0;
+    margin: 0 auto;
+}
+.quinta-secao p {
+    padding-top: 15px;
+}
+.quinta-secao span {
+    font-weight: bold;
+    color: #1c81c1;
+}
+/*--6° secao--*/
+.sexta-secao {
+    background-color: #1c81c0;
+    width: 1500px;
+    padding-bottom: 100px;
+}
+.sexta-secao h3 {
+    color: white;
+}
+.sexta-secao img {
+    padding: 0;
+    margin-bottom: 20px
+}
+.sexto-paragrafo {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #1d1d1d;
+    color: white;
+    padding:15px;
+    width: 1000px;
+}
+.sexto-link {
+    line-height: 40px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 2px 5px;
+    font-size: 16px;
+}
+.sexta-secao span {
+    color: yellow;
+    font-weight: bold;
+}
